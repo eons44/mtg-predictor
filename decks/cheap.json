@@ -1,0 +1,74 @@
+{
+    "name" : "Cheap! cheap cheap cheap",
+    "cards_in_deck" : 99,
+    "required_combos" : [
+        {
+            "name" : "Untap",
+            "possible_options" : [
+                {
+                    "name" : "ColorUntap",
+                    "pieces" : [
+                        {
+                            "name" : "ColorUntap",
+                            "num_cards" : 5
+                        },
+                        {
+                            "name" : "ColorFixer",
+                            "num_cards" : 4
+                        }
+                    ]
+                },
+                {
+                    "name" : "ColorlessUntap",
+                    "pieces" : [
+                        {
+                            "name" : "ColorlesUntap",
+                            "num_cards" : 2
+                        }
+                    ]
+                },
+                {
+                    "name" : "DevotedDruidUntap",
+                    "pieces" : [
+                        {
+                            "name" : "DevotedDruid",
+                            "num_cards" : 1
+                        },
+                        {
+                            "name" : "PlusPlus",
+                            "num_cards" : 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "ExcessMana",
+            "possible_options" : [
+                {
+                    "name" : "TapForMana",
+                    "pieces" : [
+                        {
+                            "name" : "TapForMana",
+                            "num_cards" : 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "DrawPower",
+            "possible_options" : [
+                {
+                    "name" : "TapToDraw",
+                    "pieces" : [
+                        {
+                            "name" : "TapToDraw",
+                            "num_cards" : 7
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

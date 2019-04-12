@@ -1,0 +1,58 @@
+{
+    "name" : "Atlantis",
+    "cards_in_deck" : 99,
+    "required_combos" : [
+        {
+            "name" : "Artifact Creatures",
+            "possible_options" : [
+                {
+                    "name" : "Artifact Creature Tutor",
+                    "pieces" : [
+                        {
+                            "name" : "Artifact Creature One",
+                            "num_cards" : 29
+                        },
+                        {
+                            "name" : "Artifact Creature Two",
+                            "num_cards" : 28
+                        },
+                        {
+                            "name" : "Artifact Creature Three",
+                            "num_cards" : 27
+                        },
+                        {
+                            "name" : "Artifact Creature Four",
+                            "num_cards" : 26
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "Lands",
+            "possible_options" : [
+                {
+                    "name" : "Any Land",
+                    "pieces" : [
+                        {
+                            "name" : "Land One",
+                            "num_cards" : 35
+                        },
+                        {
+                            "name" : "Land Two",
+                            "num_cards" : 34
+                        },
+                        {
+                            "name" : "Land Three",
+                            "num_cards" : 33
+                        },
+                        {
+                            "name" : "Land Four",
+                            "num_cards" : 32
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

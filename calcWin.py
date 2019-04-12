@@ -111,16 +111,17 @@ turns.append(0)
 pWins = []
 pWins.append(deck.CalcWin(7))
 winStrs = []
-winStrs.append("turn 0: " + str(pWins[0]))
+winStrs.append("turn 0: " + '%.4f'%(pWins[0]*100))
 
 while(pWin < 1.0): #arbitrary cutoff for "good enough"
     cards = 7+turn
     pWin = deck.CalcWin(cards)
-    winStr = "Turn" + str(turn) + " : " + str(pWin)
-    print(winStr)
+    winStrDebug = "Turn" + str(turn) + " : " + str(pWin)
+    winStrGraph = '%.1f'%(pWin*100)
+    print(winStrDebug)
     turns.append(turn)
     pWins.append(pWin)
-    winStrs.append(winStr)
+    winStrs.append(winStrGraph)
     turn = turn+1
 
 plotly.offline.plot({
@@ -132,4 +133,14 @@ plotly.offline.plot({
 #        text=winStrs,
         textposition='bottom right')],
     "layout": go.Layout(title="Probability of having winning combo"),
-}, auto_open=False)
+}, filename="out/" + deck.name + "_full.html", auto_open=True)
+
+plotly.offline.plot({
+    "data": [go.Scatter(
+        x=turns[:11],
+        y=pWins[:11],
+        mode='lines+markers+text',
+        text=winStrs,
+        textposition='top left')],
+    "layout": go.Layout(title="Probability of having winning combo in the first 10 turns"),
+}, filename="out/" + deck.name + "_10Turns.html", auto_open=True)
