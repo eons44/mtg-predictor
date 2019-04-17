@@ -128,10 +128,7 @@ plotly.offline.plot({
     "data": [go.Scatter(
         x=turns,
         y=pWins,
-        mode='lines+markers',
-#        mode='lines+markers+text',
-#        text=winStrs,
-        textposition='bottom right')],
+        mode='lines+markers'],
     "layout": go.Layout(title="Probability of having winning combo"),
 }, filename="out/" + deck.name + "_full.html", auto_open=True)
 

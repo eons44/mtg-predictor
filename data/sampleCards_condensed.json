@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Giant & Spectacle",
+        "cost": "{1}{R}",
+        "text": [
+            "Enchant creature",
+            "Enchanted creature gets +2/+1 and has menace."
+        ],
+        "types": [
+            "Enchantment",
+            "Aura"
+        ],
+        "power": 0,
+        "toughness": 0,
+        "quality": 0
+    },
+    {
+        "name": "Giant Spider",
+        "cost": "{3}{G}",
+        "text": [
+            "Reach (This creature can block creatures with flying.)"
+        ],
+        "types": [
+            "Creature",
+            "Spider"
+        ],
+        "power": "2",
+        "toughness": "4",
+        "quality": 4
+    },
+    {
+        "name": "Giant Strength",
+        "cost": "{R}{R}",
+        "text": [
+            "Enchant creature",
+            "Enchanted creature gets +2/+2."
+        ],
+        "types": [
+            "Enchantment",
+            "Aura"
+        ],
+        "power": 0,
+        "toughness": 0,
+        "quality": 1
+    },
+    {
+        "name": "Giant Tortoise",
+        "cost": "{1}{U}",
+        "text": [
+            "Giant Tortoise gets +0/+3 as long as it's untapped."
+        ],
+        "types": [
+            "Creature",
+            "Turtle"
+        ],
+        "power": "1",
+        "toughness": "1",
+        "quality": 2
+    },
+    {
+        "name": "Giant Trap Door Spider",
+        "cost": "{1}{G}{R}",
+        "text": [
+            "{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you."
+        ],
+        "types": [
+            "Creature",
+            "Spider"
+        ],
+        "power": "2",
+        "toughness": "3",
+        "quality": 3
+    }
+]

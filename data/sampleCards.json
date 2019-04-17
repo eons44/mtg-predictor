@@ -1,0 +1,402 @@
+{
+    "Giant & Spectacle": {
+        "colorIdentity": [
+            "R"
+        ],
+        "colors": [
+            "R"
+        ],
+        "convertedManaCost": 2.0,
+        "foreignData": [
+            {
+                "flavorText": "Der Riesen-Dekorationswettbewerb beim Migrationsfestival ist eine Tradition, die wohl als Mutprobe angefangen hat.",
+                "language": "German",
+                "name": "Riesenspektakel",
+                "text": "Verzaubert eine Kreatur\nDie verzauberte Kreatur erhält +2/+1 und hat Bedrohlichkeit.",
+                "type": "Verzauberung — Aura"
+            },
+            {
+                "flavorText": "El concurso de decoración de gigantes en el festival de la migración es una tradición que probablemente empezó como una broma.",
+                "language": "Spanish",
+                "name": "Espectáculo de gigantes",
+                "text": "Encantar criatura.\nLa criatura encantada obtiene +2/+1 y tiene la habilidad de amenaza.",
+                "type": "Encantamiento — Aura"
+            },
+            {
+                "flavorText": "C'est peut-être un gage qui est à l'origine du concours traditionnel de décorations de géants du festival migratoire.",
+                "language": "French",
+                "name": "Spectacle géant",
+                "text": "Enchanter : créature\nLa créature enchantée gagne +2/+1 et a la menace.",
+                "type": "Enchantement : aura"
+            },
+            {
+                "flavorText": "La gara di decorazione dei giganti durante la festa della migrazione è una tradizione che potrebbe affondare le radici in una vecchia scommessa.",
+                "language": "Italian",
+                "name": "Spettacolo Gigantesco",
+                "text": "Incanta creatura\nLa creatura incantata prende +2/+1 e ha minacciare.",
+                "type": "Incantesimo — Aura"
+            },
+            {
+                "flavorText": "移住祭の呼び物である巨人装飾コンテストの伝統は、もともと度胸試しだったのかもしれない。",
+                "language": "Japanese",
+                "name": "巨人の光景",
+                "text": "エンチャント（クリーチャー）\nエンチャントされているクリーチャーは、＋２/＋１の修整を受けるとともに威迫を持つ。",
+                "type": "エンチャント — オーラ"
+            },
+            {
+                "flavorText": "이주민 축제의 전통인 거인 꾸미기 콘테스트는 처음에는 무모한 도전에서 시작되었다.",
+                "language": "Korean",
+                "name": "거대한 볼거리",
+                "text": "생물에게 부여\n부여된 생물은 +2/+1을 받고 호전적을 가진다.",
+                "type": "부여마법 — 마법진"
+            },
+            {
+                "flavorText": "O concurso de decoração de gigantes no festival da migração é uma tradição que pode ter começado como um desafio.",
+                "language": "Portuguese (Brazil)",
+                "name": "Espetáculo de Gigantes",
+                "text": "Encantar criatura\nA criatura encantada recebe +2/+1 e tem ameaçar.",
+                "type": "Encantamento — Aura"
+            },
+            {
+                "flavorText": "Конкурс по украшению гигантов на фестивале миграции — традиция, которая, скорее всего, началась с рискованной шутки.",
+                "language": "Russian",
+                "name": "Грандиозное Зрелище",
+                "text": "Зачаровать существо\nЗачарованное существо получает +2/+1 и имеет Угрозу.",
+                "type": "Чары — Аура"
+            },
+            {
+                "flavorText": "迁徙节上的巨人盛装大赛这项传统可能源自某种挑战行动。",
+                "language": "Chinese Simplified",
+                "name": "巨大奇观",
+                "text": "结附于生物\n所结附的生物得+2/+1且具有威慑异能。",
+                "type": "结界～灵气"
+            },
+            {
+                "flavorText": "遷徙節上的巨人盛裝大賽這項傳統可能源自某種挑戰行動。",
+                "language": "Chinese Traditional",
+                "name": "巨大奇觀",
+                "text": "結附於生物\n所結附的生物得+2/+1且具有威懾異能。",
+                "type": "結界～靈氣"
+            }
+        ],
+        "layout": "normal",
+        "legalities": {
+            "commander": "Legal",
+            "duel": "Legal",
+            "frontier": "Legal",
+            "legacy": "Legal",
+            "modern": "Legal",
+            "pauper": "Legal",
+            "vintage": "Legal"
+        },
+        "manaCost": "{1}{R}",
+        "name": "Giant Spectacle",
+        "printings": [
+            "KLD"
+        ],
+        "rulings": [],
+        "scryfallIllustrationId": "99367fb2-76b4-4b10-894d-90d32f5c4085",
+        "scryfallOracleId": "97e34c3a-070e-406a-8505-657f4d57def8",
+        "subtypes": [
+            "Aura"
+        ],
+        "supertypes": [],
+        "tcgplayerProductId": 123129,
+        "tcgplayerPurchaseUrl": "https://mtgjson.com/links/2a695b82c1446cdc",
+        "text": "Enchant creature\nEnchanted creature gets +2/+1 and has menace.",
+        "type": "Enchantment — Aura",
+        "types": [
+            "Enchantment"
+        ],
+        "uuid": "b4551276-67d1-5855-8919-e18467e285c2",
+        "uuidV421": "598ce715-5f0a-5744-9134-36a7f50ebcd9"
+    },
+    "Giant Spider": {
+        "colorIdentity": [
+            "G"
+        ],
+        "colors": [
+            "G"
+        ],
+        "convertedManaCost": 4.0,
+        "foreignData": [],
+        "layout": "normal",
+        "legalities": {
+            "commander": "Legal",
+            "duel": "Legal",
+            "frontier": "Legal",
+            "future": "Legal",
+            "legacy": "Legal",
+            "modern": "Legal",
+            "oldschool": "Legal",
+            "pauper": "Legal",
+            "penny": "Legal",
+            "standard": "Legal",
+            "vintage": "Legal"
+        },
+        "manaCost": "{3}{G}",
+        "name": "Giant Spider",
+        "power": "2",
+        "printings": [
+            "10E",
+            "2ED",
+            "3ED",
+            "4ED",
+            "5ED",
+            "6ED",
+            "7ED",
+            "8ED",
+            "9ED",
+            "AKH",
+            "ATH",
+            "CED",
+            "CEI",
+            "DPA",
+            "FBB",
+            "GS1",
+            "LEA",
+            "LEB",
+            "M10",
+            "M11",
+            "M12",
+            "M14",
+            "M19",
+            "POR",
+            "PS11",
+            "PZ2",
+            "SUM"
+        ],
+        "rulings": [
+            {
+                "date": "2008-04-01",
+                "text": "This card now uses the Reach keyword ability to enable the blocking of flying creatures. This works because a creature with flying can only be blocked by creatures with flying or reach."
+            }
+        ],
+        "scryfallIllustrationId": "045f9094-9db2-443b-9c9f-d03292f0c9d1",
+        "scryfallOracleId": "e740ce2f-2134-473c-afa1-1b6d2d1e38ef",
+        "subtypes": [
+            "Spider"
+        ],
+        "supertypes": [],
+        "tcgplayerProductId": 97191,
+        "text": "Reach (This creature can block creatures with flying.)",
+        "toughness": "4",
+        "type": "Creature — Spider",
+        "types": [
+            "Creature"
+        ],
+        "uuid": "c615a52e-a729-55b4-8a8b-7836bab44195",
+        "uuidV421": "8c731e66-37b8-5743-b284-a984551592d7"
+    },
+    "Giant Strength": {
+        "colorIdentity": [
+            "R"
+        ],
+        "colors": [
+            "R"
+        ],
+        "convertedManaCost": 2.0,
+        "foreignData": [
+            {
+                "language": "German",
+                "name": "Riesenstärke",
+                "text": "Die verzauberte Kreatur erhält +2/+2.",
+                "type": "Verzaubere Kreatur"
+            },
+            {
+                "language": "Spanish",
+                "name": "Fuerza de gigante"
+            },
+            {
+                "language": "French",
+                "name": "Force de géant"
+            },
+            {
+                "language": "Italian",
+                "name": "Forza del Gigante"
+            },
+            {
+                "language": "Portuguese (Brazil)",
+                "name": "Força do Gigante"
+            }
+        ],
+        "layout": "normal",
+        "legalities": {
+            "commander": "Legal",
+            "duel": "Legal",
+            "legacy": "Legal",
+            "pauper": "Legal",
+            "penny": "Legal",
+            "vintage": "Legal"
+        },
+        "manaCost": "{R}{R}",
+        "name": "Giant Strength",
+        "printings": [
+            "4ED",
+            "5ED",
+            "6ED",
+            "LEG",
+            "REN",
+            "TMP",
+            "VMA"
+        ],
+        "rulings": [],
+        "scryfallIllustrationId": "29d02cbd-4333-4c76-a164-1d7c35bd43c7",
+        "scryfallOracleId": "db85ba13-f00d-4cdd-99e1-22a4d39c8837",
+        "subtypes": [
+            "Aura"
+        ],
+        "supertypes": [],
+        "tcgplayerProductId": 2175,
+        "tcgplayerPurchaseUrl": "https://mtgjson.com/links/81ea96707fb06436",
+        "text": "Enchant creature\nEnchanted creature gets +2/+2.",
+        "type": "Enchantment — Aura",
+        "types": [
+            "Enchantment"
+        ],
+        "uuid": "df0b6d60-363c-59ce-85f3-4147cd6fc694",
+        "uuidV421": "2f3dd67b-d0dc-50b3-8462-e95472345bf4"
+    },
+    "Giant Tortoise": {
+        "colorIdentity": [
+            "U"
+        ],
+        "colors": [
+            "U"
+        ],
+        "convertedManaCost": 2.0,
+        "foreignData": [
+            {
+                "flavorText": "ジェスやヴァレロンでは、「亀」というのは頑固の代名詞だ。",
+                "language": "Japanese",
+                "name": "象亀",
+                "text": "象亀がアンタップ状態であるかぎり、これは＋０/＋３の修整を受ける。",
+                "type": "クリーチャー — 海亀"
+            },
+            {
+                "flavorText": "在介斯和威烈隆的沿海国家中，「龟」和「顽固」是同义词。",
+                "language": "Chinese Simplified",
+                "name": "巨龟",
+                "text": "只要巨龟未横置，它便得+0/+3。",
+                "type": "生物～龟"
+            }
+        ],
+        "layout": "normal",
+        "legalities": {
+            "commander": "Legal",
+            "duel": "Legal",
+            "legacy": "Legal",
+            "pauper": "Legal",
+            "penny": "Legal",
+            "vintage": "Legal"
+        },
+        "manaCost": "{1}{U}",
+        "name": "Giant Tortoise",
+        "power": "1",
+        "printings": [
+            "4ED",
+            "ARN",
+            "EMA",
+            "ME1",
+            "ME4",
+            "REN",
+            "RIN"
+        ],
+        "rulings": [],
+        "scryfallIllustrationId": "acf275a8-e87a-4d81-ad7f-4409a8cd8780",
+        "scryfallOracleId": "2dd50d7f-941f-4deb-a15c-ee2357844c35",
+        "subtypes": [
+            "Turtle"
+        ],
+        "supertypes": [],
+        "tcgplayerProductId": 118431,
+        "tcgplayerPurchaseUrl": "https://mtgjson.com/links/4989cb479939e477",
+        "text": "Giant Tortoise gets +0/+3 as long as it's untapped.",
+        "toughness": "1",
+        "type": "Creature — Turtle",
+        "types": [
+            "Creature"
+        ],
+        "uuid": "c1108516-feb0-5d51-9b2c-33507c44a327",
+        "uuidV421": "fb5e75a4-a527-54e9-ba4a-1a5f99257121"
+    },
+    "Giant Trap Door Spider": {
+        "colorIdentity": [
+            "G",
+            "R"
+        ],
+        "colors": [
+            "G",
+            "R"
+        ],
+        "convertedManaCost": 3.0,
+        "foreignData": [
+            {
+                "language": "German",
+                "name": "Riesige Falltürspinne"
+            },
+            {
+                "language": "Spanish",
+                "name": "Araña cavadora gigante"
+            },
+            {
+                "language": "French",
+                "name": "Araignée géante piégeuse"
+            },
+            {
+                "language": "Italian",
+                "name": "Ragno Intrappolatore"
+            },
+            {
+                "language": "Japanese",
+                "name": "巨大トタテグモ"
+            },
+            {
+                "language": "Portuguese (Brazil)",
+                "name": "Aranha Armadeira Gigante"
+            }
+        ],
+        "layout": "normal",
+        "legalities": {
+            "commander": "Legal",
+            "duel": "Legal",
+            "legacy": "Legal",
+            "vintage": "Legal"
+        },
+        "manaCost": "{1}{R}{G}",
+        "name": "Giant Trap Door Spider",
+        "power": "2",
+        "printings": [
+            "CST",
+            "DKM",
+            "ICE",
+            "ME2"
+        ],
+        "rulings": [
+            {
+                "date": "2004-10-04",
+                "text": "If Giant Trap Door Spider leaves the battlefield before its ability resolves, the ability will still resolve as normal. The targeted creature will be exiled."
+            },
+            {
+                "date": "2004-10-04",
+                "text": "If the targeted creature leaves the battlefield (or otherwise becomes an illegal target) before the ability resolves, the ability won’t resolve. Giant Trap Door Spider will remain on the battlefield."
+            }
+        ],
+        "scryfallIllustrationId": "472ad5ae-caa9-4452-8dae-3f169308f891",
+        "scryfallOracleId": "2c87565b-3902-4b11-b894-6922f66008ba",
+        "subtypes": [
+            "Spider"
+        ],
+        "supertypes": [],
+        "tcgplayerProductId": 82410,
+        "tcgplayerPurchaseUrl": "https://mtgjson.com/links/3ac201ad1027abf1",
+        "text": "{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.",
+        "toughness": "3",
+        "type": "Creature — Spider",
+        "types": [
+            "Creature"
+        ],
+        "uuid": "2c983aba-5e3f-5843-a9e3-457bd7e71a17",
+        "uuidV421": "7d50b3e1-36a2-5bfe-9f58-2acfad8607a5"
+    }
+}
